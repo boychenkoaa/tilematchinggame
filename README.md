@@ -66,4 +66,4 @@ A A A A A
 
 
 ## Запуск под Windows
-Для запуска под Windows просто скачайте и распакуйте архив `tilematchinggame.zip`, запустите tilematchinggame.exe
+Для запуска под Windows просто скачайте и распакуйте (архив)[tilematchinggame.zip], запустите tilematchinggame.exe
