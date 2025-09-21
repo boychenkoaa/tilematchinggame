@@ -68,7 +68,8 @@ A A A A A
 ## Запуск под Windows
 Для запуска под Windows просто скачайте и распакуйте [архив](tilematchinggame.zip), запустите `tilematchinggame.exe`
 
-Стартовый скриншот будет примерно таким
+После запуска exe-файла введите `h` и нажмите `Enter` -- появится справка. 
+
 <img width="599" height="669" alt="image" src="https://github.com/user-attachments/assets/4ca7d089-87e8-467d-ba7e-bc16305720cd" />
  
-
+Успехов!
