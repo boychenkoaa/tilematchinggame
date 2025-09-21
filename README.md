@@ -72,4 +72,4 @@ A A A A A
 
 <img width="599" height="669" alt="image" src="https://github.com/user-attachments/assets/4ca7d089-87e8-467d-ba7e-bc16305720cd" />
  
-Успехов!
+Дальнейший ход игры уже зависит от вас. Успехов!
